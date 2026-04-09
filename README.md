@@ -6,37 +6,41 @@ This project was developed as part of my Data Analytics Internship, where I anal
 
 The goal of this project is to analyze and understand the relationship between:
 
-Students family income and academic performance (CGPA)
+- Students family income and academic performance (CGPA)
 
-Python/programming experience and expected salary
+- Python/programming experience and expected salary
 
-City-wise performance distribution
+- City-wise performance distribution
 
-Event participation trends among students
+- Event participation trends among students
 
-**Tools & Technologies Used**
 
-Power BI
+ **Tools & Technologies Used**
 
-Data Cleaning & Transformation
+- Power BI
 
-Data Visualization
+- Data Cleaning & Transformation
 
-**Key Insights**
+- Data Visualization
 
-Students with higher Python experience tend to have higher expected salaries
 
-A moderate relationship exists between family income and CGPA
+ **Key Insights**
 
-Certain cities show consistently strong academic performance
+- Students with higher Python experience tend to have higher expected salaries
 
-Data Science-related events attract higher student participation
+- A moderate relationship exists between family income and CGPA
+
+- Certain cities show consistently strong academic performance
+
+- Data Science-related events attract higher student participation
+
+
 
 **Dashboard Features**
 
-Interactive filters (City, Graduation Year)
+- Interactive filters (City, Graduation Year)
 
-KPI cards:
+- KPI cards:
 
 Total Students
 
@@ -44,7 +48,7 @@ Average CGPA
 
 Average Family Income
 
-Visualizations:
+- Visualizations:
 
 Top Colleges by CGPA
 
@@ -57,13 +61,15 @@ Salary vs Experience Trends
 City-wise Analysis
 
 
-**Dashboard Preview**
+
+
+- **Dashboard Preview**
 
 
 **About the Project**
 
 This dashboard was created during my internship to work with real-world data and generate insights that can support better academic and career-related decision-making.
 
-**Dataset**
+ **Dataset**
 
 The dataset used in this project was provided during my internship and cannot be shared publicly due to confidentiality.
